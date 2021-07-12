@@ -3,7 +3,7 @@ Electronics section - third task
 
 This project is considered as required by smart methods company in cooperative training for the year 2021 controlling servo motor
 
-Tinkercad is the website that used to create servos motor circuit
+Tinkercad is the website that used to create circuits
 
 The objectives are programing 3 robot' positions and determine the initial position
 
